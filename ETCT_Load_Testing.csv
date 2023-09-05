@@ -1,0 +1,391 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693912811821,4118,https://etct.com.bd/,200,OK,Thread Group 1-3,text,true,,823047,492,10,10,https://etct.com.bd/,3827,0,1226
+1693912812025,4036,https://etct.com.bd/,200,OK,Thread Group 1-4,text,true,,822948,492,10,10,https://etct.com.bd/,3656,0,1030
+1693912812217,3929,https://etct.com.bd/,200,OK,Thread Group 1-5,text,true,,824249,492,10,10,https://etct.com.bd/,3546,0,846
+1693912812621,3529,https://etct.com.bd/,200,OK,Thread Group 1-7,text,true,,822879,492,10,10,https://etct.com.bd/,3138,0,426
+1693912811651,4514,https://etct.com.bd/,200,OK,Thread Group 1-1,text,true,,824652,492,10,10,https://etct.com.bd/,4126,0,1410
+1693912811651,4529,https://etct.com.bd/,200,OK,Thread Group 1-2,text,true,,824170,492,10,10,https://etct.com.bd/,4170,0,1399
+1693912812417,3799,https://etct.com.bd/,200,OK,Thread Group 1-6,text,true,,824037,492,10,10,https://etct.com.bd/,3420,0,630
+1693912812818,3412,https://etct.com.bd/,200,OK,Thread Group 1-8,text,true,,824728,492,10,10,https://etct.com.bd/,3031,0,238
+1693912813052,3236,https://etct.com.bd/,200,OK,Thread Group 1-9,text,true,,821983,492,10,10,https://etct.com.bd/,2839,0,158
+1693912813212,3230,https://etct.com.bd/,200,OK,Thread Group 1-10,text,true,,824605,492,10,10,https://etct.com.bd/,2858,0,155
+1693912816233,292,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-8,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390473,292,0,0
+1693912816221,307,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-6,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390473,307,0,0
+1693912815962,681,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-3,text,false,,823,641,10,10,https://etct.com.bd/home/section/category/1390473,681,0,0
+1693912816064,653,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-4,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390473,653,0,0
+1693912816529,280,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-8,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390462,280,0,0
+1693912816154,655,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-7,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390473,655,0,0
+1693912816530,295,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-6,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390462,295,0,0
+1693912816149,676,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-5,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390473,676,0,0
+1693912816169,665,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-1,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390473,664,0,0
+1693912816183,706,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-2,text,false,,821,641,10,10,https://etct.com.bd/home/section/category/1390473,705,0,0
+1693912816291,646,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-9,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390473,645,0,0
+1693912816646,295,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-3,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390462,295,0,0
+1693912816720,287,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-4,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390462,286,0,0
+1693912816811,280,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-8,text,false,,823,641,10,10,https://etct.com.bd/home/section/category/1390477,280,0,0
+1693912816445,645,https://etct.com.bd/home/section/category/1390473,419,,Thread Group 1-10,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390473,644,0,0
+1693912816811,288,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-7,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390462,288,0,0
+1693912816827,287,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-6,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390477,287,0,0
+1693912816827,287,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-5,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390462,287,0,0
+1693912816890,320,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-2,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390462,320,0,0
+1693912816939,289,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-9,text,false,,825,641,10,10,https://etct.com.bd/home/section/category/1390462,288,0,0
+1693912816943,291,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-3,text,false,,825,641,10,10,https://etct.com.bd/home/section/category/1390477,291,0,0
+1693912817009,281,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-4,text,false,,823,641,10,10,https://etct.com.bd/home/section/category/1390477,280,0,0
+1693912817093,279,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-8,text,false,,825,641,10,10,https://etct.com.bd/home/section/category/1390475,279,0,0
+1693912817096,284,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-10,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390462,284,0,0
+1693912817101,299,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-7,text,false,,823,641,10,10,https://etct.com.bd/home/section/category/1390477,299,0,0
+1693912817116,290,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-6,text,false,,825,641,10,10,https://etct.com.bd/home/section/category/1390475,290,0,0
+1693912817119,289,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-5,text,false,,831,641,10,10,https://etct.com.bd/home/section/category/1390477,289,0,0
+1693912817212,292,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-2,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390477,292,0,0
+1693912816836,675,https://etct.com.bd/home/section/category/1390462,419,,Thread Group 1-1,text,false,,821,641,10,10,https://etct.com.bd/home/section/category/1390462,675,0,0
+1693912817229,313,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-9,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390477,313,0,0
+1693912817237,312,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-3,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390475,312,0,0
+1693912817292,286,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-4,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390475,286,0,0
+1693912817374,287,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-8,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13909,287,0,0
+1693912817382,284,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-10,text,false,,825,641,10,10,https://etct.com.bd/home/section/category/1390477,284,0,0
+1693912817403,307,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-7,text,false,,827,641,10,10,https://etct.com.bd/home/section/category/1390475,307,0,0
+1693912817410,300,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-6,text,false,,823,639,10,10,https://etct.com.bd/home/section/category/13909,300,0,0
+1693912817411,304,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-5,text,false,,823,641,10,10,https://etct.com.bd/home/section/category/1390475,304,0,0
+1693912817507,307,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-2,text,false,,823,641,10,10,https://etct.com.bd/home/section/category/1390475,307,0,0
+1693912817544,293,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-9,text,false,,825,641,10,10,https://etct.com.bd/home/section/category/1390475,293,0,0
+1693912817551,297,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-3,text,false,,823,639,10,10,https://etct.com.bd/home/section/category/13909,297,0,0
+1693912817580,293,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-4,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13909,293,0,0
+1693912817664,283,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-8,text,false,,841,643,10,10,https://etct.com.bd/home/section/category/139045303,283,0,0
+1693912817668,297,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-10,text,false,,833,641,10,10,https://etct.com.bd/home/section/category/1390475,296,0,0
+1693912817717,289,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-5,text,false,,837,639,10,10,https://etct.com.bd/home/section/category/13909,289,0,0
+1693912817712,294,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-7,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13909,294,0,0
+1693912817712,304,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-6,text,false,,827,643,10,10,https://etct.com.bd/home/section/category/139045303,304,0,0
+1693912817815,296,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-2,text,false,,825,639,10,10,https://etct.com.bd/home/section/category/13909,296,0,0
+1693912817839,303,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-9,text,false,,833,639,10,10,https://etct.com.bd/home/section/category/13909,303,0,0
+1693912817850,302,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-3,text,false,,821,643,10,10,https://etct.com.bd/home/section/category/139045303,302,0,0
+1693912817875,293,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-4,text,false,,829,643,10,10,https://etct.com.bd/home/section/category/139045303,293,0,0
+1693912817513,677,https://etct.com.bd/home/section/category/1390477,419,,Thread Group 1-1,text,false,,833,641,10,10,https://etct.com.bd/home/section/category/1390477,677,0,0
+1693912817949,299,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-8,text,false,,829,643,10,10,https://etct.com.bd/home/section/category/139045306,299,0,0
+1693912817966,302,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-10,text,false,,825,639,10,10,https://etct.com.bd/home/section/category/13909,301,0,0
+1693912818008,297,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-5,text,false,,827,643,10,10,https://etct.com.bd/home/section/category/139045303,297,0,0
+1693912818019,304,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-6,text,false,,827,643,10,10,https://etct.com.bd/home/section/category/139045306,304,0,0
+1693912818008,320,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-7,text,false,,821,643,10,10,https://etct.com.bd/home/section/category/139045303,320,0,0
+1693912818113,293,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-2,text,false,,841,643,10,10,https://etct.com.bd/home/section/category/139045303,293,0,0
+1693912818145,318,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-9,text,false,,827,643,10,10,https://etct.com.bd/home/section/category/139045303,318,0,0
+1693912818171,297,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-4,text,false,,831,643,10,10,https://etct.com.bd/home/section/category/139045306,297,0,0
+1693912818155,317,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-3,text,false,,821,643,10,10,https://etct.com.bd/home/section/category/139045306,313,0,0
+1693912818249,305,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-8,text,false,,823,639,10,10,https://etct.com.bd/home/section/category/13912,305,0,0
+1693912818269,311,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-10,text,false,,835,643,10,10,https://etct.com.bd/home/section/category/139045303,311,0,0
+1693912818307,316,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-5,text,false,,827,643,10,10,https://etct.com.bd/home/section/category/139045306,316,0,0
+1693912818330,314,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-7,text,false,,825,643,10,10,https://etct.com.bd/home/section/category/139045306,313,0,0
+1693912818324,337,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-6,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13912,337,0,0
+1693912818407,318,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-2,text,false,,825,643,10,10,https://etct.com.bd/home/section/category/139045306,317,0,0
+1693912818474,330,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-3,text,false,,821,639,10,10,https://etct.com.bd/home/section/category/13912,330,0,0
+1693912818465,339,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-9,text,false,,827,643,10,10,https://etct.com.bd/home/section/category/139045306,339,0,0
+1693912818470,336,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-4,text,false,,835,639,10,10,https://etct.com.bd/home/section/category/13912,336,0,0
+1693912818581,324,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-10,text,false,,823,643,10,10,https://etct.com.bd/home/section/category/139045306,324,0,0
+1693912818556,349,https://etct.com.bd/home/section/featured,419,,Thread Group 1-8,text,false,,829,633,10,10,https://etct.com.bd/home/section/featured,349,0,0
+1693912818192,721,https://etct.com.bd/home/section/category/1390475,419,,Thread Group 1-1,text,false,,829,641,10,10,https://etct.com.bd/home/section/category/1390475,721,0,0
+1693912818626,344,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-5,text,false,,829,639,10,10,https://etct.com.bd/home/section/category/13912,344,0,0
+1693912818645,347,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-7,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13912,347,0,0
+1693912818663,346,https://etct.com.bd/home/section/featured,419,,Thread Group 1-6,text,false,,825,633,10,10,https://etct.com.bd/home/section/featured,346,0,0
+1693912818726,307,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-2,text,false,,821,639,10,10,https://etct.com.bd/home/section/category/13912,307,0,0
+1693912818806,312,https://etct.com.bd/home/section/featured,419,,Thread Group 1-3,text,false,,825,633,10,10,https://etct.com.bd/home/section/featured,312,0,0
+1693912818806,319,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-9,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13912,319,0,0
+1693912818808,322,https://etct.com.bd/home/section/featured,419,,Thread Group 1-4,text,false,,827,633,10,10,https://etct.com.bd/home/section/featured,322,0,0
+1693912818906,306,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-10,text,false,,821,639,10,10,https://etct.com.bd/home/section/category/13912,305,0,0
+1693912818906,315,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-8,text,false,,825,633,10,10,https://etct.com.bd/home/section/tranding,315,0,0
+1693912818915,330,https://etct.com.bd/home/section/category/13909,419,,Thread Group 1-1,text,false,,827,639,10,10,https://etct.com.bd/home/section/category/13909,322,0,0
+1693912818972,314,https://etct.com.bd/home/section/featured,419,,Thread Group 1-5,text,false,,829,633,10,10,https://etct.com.bd/home/section/featured,314,0,0
+1693912819011,303,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-6,text,false,,825,633,10,10,https://etct.com.bd/home/section/tranding,302,0,0
+1693912818993,327,https://etct.com.bd/home/section/featured,419,,Thread Group 1-7,text,false,,833,633,10,10,https://etct.com.bd/home/section/featured,327,0,0
+1693912819035,339,https://etct.com.bd/home/section/featured,419,,Thread Group 1-2,text,false,,827,633,10,10,https://etct.com.bd/home/section/featured,339,0,0
+1693912819127,318,https://etct.com.bd/home/section/featured,419,,Thread Group 1-9,text,false,,829,633,10,10,https://etct.com.bd/home/section/featured,318,0,0
+1693912819120,334,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-3,text,false,,833,633,10,10,https://etct.com.bd/home/section/tranding,334,0,0
+1693912819131,333,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-4,text,false,,825,633,10,10,https://etct.com.bd/home/section/tranding,332,0,0
+1693912819213,333,https://etct.com.bd/home/section/featured,419,,Thread Group 1-10,text,false,,821,633,10,10,https://etct.com.bd/home/section/featured,333,0,0
+1693912819223,350,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-8,text,false,,829,637,10,10,https://etct.com.bd/home/section/best_selling,350,0,0
+1693912819246,368,https://etct.com.bd/home/section/category/139045303,419,,Thread Group 1-1,text,false,,825,643,10,10,https://etct.com.bd/home/section/category/139045303,368,0,0
+1693912819288,338,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-5,text,false,,827,633,10,10,https://etct.com.bd/home/section/tranding,338,0,0
+1693912819575,66,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-8,text,false,,2731,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,65
+1693912819643,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819315,336,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-6,text,false,,833,637,10,10,https://etct.com.bd/home/section/best_selling,336,0,0
+1693912819321,333,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-7,text,false,,831,633,10,10,https://etct.com.bd/home/section/tranding,333,0,0
+1693912819654,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912819657,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912819375,327,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-2,text,false,,831,633,10,10,https://etct.com.bd/home/section/tranding,327,0,0
+1693912819447,349,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-9,text,false,,823,633,10,10,https://etct.com.bd/home/section/tranding,348,0,0
+1693912819465,335,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-4,text,false,,829,637,10,10,https://etct.com.bd/home/section/best_selling,335,0,0
+1693912819456,344,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-3,text,false,,827,637,10,10,https://etct.com.bd/home/section/best_selling,344,0,0
+1693912819802,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819802,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819805,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819805,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819547,315,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-10,text,false,,823,633,10,10,https://etct.com.bd/home/section/tranding,315,0,0
+1693912819615,326,https://etct.com.bd/home/section/category/139045306,419,,Thread Group 1-1,text,false,,835,643,10,10,https://etct.com.bd/home/section/category/139045306,326,0,0
+1693912819627,329,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-5,text,false,,825,637,10,10,https://etct.com.bd/home/section/best_selling,329,0,0
+1693912819959,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912819961,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912819655,339,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-7,text,false,,829,637,10,10,https://etct.com.bd/home/section/best_selling,339,0,0
+1693912819997,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912819999,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819704,329,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-2,text,false,,829,637,10,10,https://etct.com.bd/home/section/best_selling,328,0,0
+1693912820036,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912820039,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912819797,317,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-9,text,false,,835,637,10,10,https://etct.com.bd/home/section/best_selling,317,0,0
+1693912820116,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912820119,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819864,312,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-10,text,false,,823,637,10,10,https://etct.com.bd/home/section/best_selling,312,0,0
+1693912820178,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912820180,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912819943,332,https://etct.com.bd/home/section/category/13912,419,,Thread Group 1-1,text,false,,823,639,10,10,https://etct.com.bd/home/section/category/13912,331,0,0
+1693912820276,301,https://etct.com.bd/home/section/featured,419,,Thread Group 1-1,text,false,,823,633,10,10,https://etct.com.bd/home/section/featured,300,0,0
+1693912820578,296,https://etct.com.bd/home/section/tranding,419,,Thread Group 1-1,text,false,,829,633,10,10,https://etct.com.bd/home/section/tranding,296,0,0
+1693912820876,299,https://etct.com.bd/home/section/best_selling,419,,Thread Group 1-1,text,false,,827,637,10,10,https://etct.com.bd/home/section/best_selling,298,0,0
+1693912821177,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912821179,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912829901,2483,https://etct.com.bd/dashboard,200,OK,Thread Group 1-5,text,true,,698067,1236,10,10,https://etct.com.bd/users/login,779,0,0
+1693912829901,779,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-5,text,true,,3088,617,10,10,https://etct.com.bd/dashboard,779,0,0
+1693912830683,1701,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-5,text,true,,694979,619,10,10,https://etct.com.bd/users/login,1326,0,0
+1693912832392,64,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-5,text,false,,2731,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,64
+1693912832458,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912831040,2383,https://etct.com.bd/dashboard,200,OK,Thread Group 1-9,text,true,,697696,1236,10,10,https://etct.com.bd/users/login,669,0,0
+1693912831040,669,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-9,text,true,,3078,617,10,10,https://etct.com.bd/dashboard,669,0,0
+1693912831709,1714,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-9,text,true,,694618,619,10,10,https://etct.com.bd/users/login,1334,0,0
+1693912833426,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912833428,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912831983,2399,https://etct.com.bd/dashboard,200,OK,Thread Group 1-2,text,true,,697649,1236,10,10,https://etct.com.bd/users/login,675,0,0
+1693912831983,675,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-2,text,true,,3080,617,10,10,https://etct.com.bd/dashboard,675,0,0
+1693912832659,1723,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-2,text,true,,694569,619,10,10,https://etct.com.bd/users/login,1347,0,0
+1693912834385,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912834387,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912835679,1982,https://etct.com.bd/dashboard,200,OK,Thread Group 1-1,text,true,,697701,1236,10,10,https://etct.com.bd/users/login,314,0,0
+1693912835679,314,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-1,text,true,,3076,617,10,10,https://etct.com.bd/dashboard,314,0,0
+1693912835994,1667,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-1,text,true,,694625,619,10,10,https://etct.com.bd/users/login,1412,0,0
+1693912837664,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912837667,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912835531,2347,https://etct.com.bd/dashboard,200,OK,Thread Group 1-10,text,true,,697609,1236,10,10,https://etct.com.bd/users/login,686,0,0
+1693912835531,686,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-10,text,true,,3074,617,10,10,https://etct.com.bd/dashboard,686,0,0
+1693912836218,1660,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-10,text,true,,694535,619,10,10,https://etct.com.bd/users/login,1290,0,0
+1693912837881,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912837884,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912838630,2408,https://etct.com.bd/dashboard,200,OK,Thread Group 1-7,text,true,,697603,1236,10,10,https://etct.com.bd/users/login,708,0,0
+1693912838630,708,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-7,text,true,,3076,617,10,10,https://etct.com.bd/dashboard,708,0,0
+1693912839339,1699,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-7,text,true,,694527,619,10,10,https://etct.com.bd/users/login,1381,0,0
+1693912841040,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912841042,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912839352,2037,https://etct.com.bd/dashboard,200,OK,Thread Group 1-8,text,true,,697606,1236,10,10,https://etct.com.bd/users/login,750,0,0
+1693912839352,750,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-8,text,true,,3082,617,10,10,https://etct.com.bd/dashboard,750,0,0
+1693912840103,1286,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-8,text,true,,694524,619,10,10,https://etct.com.bd/users/login,943,0,0
+1693912841392,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912841394,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912840906,1991,https://etct.com.bd/dashboard,200,OK,Thread Group 1-4,text,true,,697701,1236,10,10,https://etct.com.bd/users/login,298,0,0
+1693912840906,298,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-4,text,true,,3080,617,10,10,https://etct.com.bd/dashboard,298,0,0
+1693912841205,1692,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-4,text,true,,694621,619,10,10,https://etct.com.bd/users/login,1302,0,0
+1693912842899,67,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-4,text,false,,2731,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,66
+1693912842967,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912842083,2408,https://etct.com.bd/dashboard,200,OK,Thread Group 1-6,text,true,,697654,1236,10,10,https://etct.com.bd/users/login,709,0,0
+1693912842083,709,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-6,text,true,,3088,617,10,10,https://etct.com.bd/dashboard,709,0,0
+1693912842793,1698,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-6,text,true,,694566,619,10,10,https://etct.com.bd/users/login,1296,0,0
+1693912844493,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912844495,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912842846,3218,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-2,text,true,,900033,626,10,10,https://etct.com.bd/category/backpacks,2883,0,0
+1693912846065,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912846068,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912843862,2376,https://etct.com.bd/dashboard,200,OK,Thread Group 1-3,text,true,,697653,1236,10,10,https://etct.com.bd/users/login,676,0,0
+1693912843862,676,https://etct.com.bd/dashboard-0,302,Found,Thread Group 1-3,text,true,,3076,617,10,10,https://etct.com.bd/dashboard,676,0,0
+1693912844539,1699,https://etct.com.bd/dashboard-1,200,OK,Thread Group 1-3,text,true,,694577,619,10,10,https://etct.com.bd/users/login,1349,0,0
+1693912846241,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912846243,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912845717,3306,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-5,text,true,,900375,626,10,10,https://etct.com.bd/category/backpacks,2935,0,0
+1693912849025,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912849027,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912847813,3709,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-9,text,true,,899890,626,10,10,https://etct.com.bd/category/backpacks,3349,0,0
+1693912851525,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912851527,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912848577,3867,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-4,text,true,,900164,626,10,10,https://etct.com.bd/category/backpacks,3479,0,0
+1693912852446,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912852448,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912849571,3847,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-10,text,true,,900431,626,10,10,https://etct.com.bd/category/backpacks,3537,0,0
+1693912853420,71,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-10,text,false,,2731,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,71
+1693912853493,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912849860,3909,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-6,text,true,,900122,626,10,10,https://etct.com.bd/category/backpacks,3520,0,0
+1693912853771,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912853773,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912853267,2127,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-2,text,true,,787743,654,10,10,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1764,0,0
+1693912855396,285,https://etct.com.bd/product/variant_price,419,,Thread Group 1-2,text,false,,819,657,10,10,https://etct.com.bd/product/variant_price,285,0,0
+1693912852172,3695,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-3,text,true,,900120,626,10,10,https://etct.com.bd/category/backpacks,3309,0,0
+1693912855869,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912855871,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912855683,291,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-2,text,false,,831,650,10,10,https://etct.com.bd/home/product/top_selling,291,0,0
+1693912852381,3781,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-1,text,true,,900092,626,10,10,https://etct.com.bd/category/backpacks,3395,0,0
+1693912856164,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912856166,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912855976,286,https://etct.com.bd/home/product/related,419,,Thread Group 1-2,text,false,,829,673,10,10,https://etct.com.bd/home/product/related,286,0,0
+1693912856263,282,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-2,text,false,,833,634,10,10,https://etct.com.bd/home/product/also_like,282,0,0
+1693912856546,85,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-2,text,true,,1802,1846,10,10,https://etct.com.bd/cdn-cgi/zaraz/t,83,0,0
+1693912856631,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912856636,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912856639,282,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-2,text,false,,829,650,10,10,https://etct.com.bd/cart/addtocart,282,0,0
+1693912856922,81,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-2,text,true,,1561,1449,10,10,https://etct.com.bd/cdn-cgi/zaraz/t,81,0,0
+1693912857004,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912857006,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912857008,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912856539,1717,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-5,text,true,,787487,654,10,10,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1179,0,0
+1693912854791,3647,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-7,text,true,,900080,626,10,10,https://etct.com.bd/category/backpacks,3261,0,0
+1693912858440,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912858442,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912855250,3252,https://etct.com.bd/category/backpacks,200,OK,Thread Group 1-8,text,true,,900646,626,10,10,https://etct.com.bd/category/backpacks,2888,0,0
+1693912858504,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912858506,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912858258,295,https://etct.com.bd/product/variant_price,419,,Thread Group 1-5,text,false,,823,657,10,10,https://etct.com.bd/product/variant_price,295,0,0
+1693912858554,294,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-5,text,false,,831,650,10,10,https://etct.com.bd/home/product/top_selling,294,0,0
+1693912858849,289,https://etct.com.bd/home/product/related,419,,Thread Group 1-5,text,false,,829,673,10,10,https://etct.com.bd/home/product/related,289,0,0
+1693912859139,288,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-5,text,false,,833,634,10,10,https://etct.com.bd/home/product/also_like,288,0,0
+1693912859428,82,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-5,text,true,,1799,1846,10,10,https://etct.com.bd/cdn-cgi/zaraz/t,81,0,0
+1693912859511,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912859513,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912859515,287,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-5,text,false,,825,650,10,10,https://etct.com.bd/cart/addtocart,287,0,0
+1693912859803,91,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-5,text,true,,1563,1449,10,10,https://etct.com.bd/cdn-cgi/zaraz/t,91,0,0
+1693912859895,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912859897,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912859898,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912858603,2054,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-4,text,true,,787466,654,10,10,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1685,0,0
+1693912860663,292,https://etct.com.bd/product/variant_price,419,,Thread Group 1-4,text,false,,825,657,10,10,https://etct.com.bd/product/variant_price,292,0,0
+1693912860956,282,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-4,text,false,,827,650,10,10,https://etct.com.bd/home/product/top_selling,282,0,0
+1693912861239,285,https://etct.com.bd/home/product/related,419,,Thread Group 1-4,text,false,,831,673,10,10,https://etct.com.bd/home/product/related,285,0,0
+1693912861526,282,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-4,text,false,,831,634,10,10,https://etct.com.bd/home/product/also_like,282,0,0
+1693912861809,77,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-4,text,true,,1798,1846,10,10,https://etct.com.bd/cdn-cgi/zaraz/t,77,0,0
+1693912861888,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912861890,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912861893,284,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-4,text,false,,833,650,10,10,https://etct.com.bd/cart/addtocart,284,0,0
+1693912862178,79,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-4,text,true,,1557,1449,10,10,https://etct.com.bd/cdn-cgi/zaraz/t,79,0,0
+1693912862265,2,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912862268,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912862270,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912863997,2554,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-2,text,false,,691495,612,10,10,https://etct.com.bd/cart,1813,0,0
+1693912866554,68,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-2,text,false,,2731,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,68
+1693912866624,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-2,text,false,,2366,0,10,10,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912811628,20331,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-2,,false,,3948818,17210,10,10,null,16726,34666,1476
+1693912864647,2128,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-9,text,true,,787893,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1749,0,0
+1693912866777,293,https://etct.com.bd/product/variant_price,419,,Thread Group 1-9,text,false,,831,657,9,9,https://etct.com.bd/product/variant_price,293,0,0
+1693912865584,1729,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-10,text,true,,787715,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1357,0,0
+1693912867072,287,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-9,text,false,,823,650,9,9,https://etct.com.bd/home/product/top_selling,287,0,0
+1693912867315,292,https://etct.com.bd/product/variant_price,419,,Thread Group 1-10,text,false,,829,657,9,9,https://etct.com.bd/product/variant_price,292,0,0
+1693912867361,285,https://etct.com.bd/home/product/related,419,,Thread Group 1-9,text,false,,831,673,9,9,https://etct.com.bd/home/product/related,285,0,0
+1693912867609,293,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-10,text,false,,827,650,9,9,https://etct.com.bd/home/product/top_selling,292,0,0
+1693912867648,288,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-9,text,false,,825,634,9,9,https://etct.com.bd/home/product/also_like,288,0,0
+1693912867938,85,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-9,text,true,,1804,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,85,0,0
+1693912868024,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912868026,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912867903,296,https://etct.com.bd/home/product/related,419,,Thread Group 1-10,text,false,,827,673,9,9,https://etct.com.bd/home/product/related,296,0,0
+1693912868028,292,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-9,text,false,,833,650,9,9,https://etct.com.bd/cart/addtocart,292,0,0
+1693912868322,85,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-9,text,true,,1564,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,85,0,0
+1693912868408,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912868410,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912868412,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912868200,284,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-10,text,false,,825,634,9,9,https://etct.com.bd/home/product/also_like,284,0,0
+1693912868485,82,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-10,text,true,,1809,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,82,0,0
+1693912868569,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912868570,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912866653,2114,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-8,text,true,,787883,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1857,0,0
+1693912868572,289,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-10,text,false,,823,650,9,9,https://etct.com.bd/cart/addtocart,289,0,0
+1693912868862,80,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-10,text,true,,1561,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,80,0,0
+1693912868942,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912868944,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912868946,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912868769,282,https://etct.com.bd/product/variant_price,419,,Thread Group 1-8,text,false,,831,657,9,9,https://etct.com.bd/product/variant_price,281,0,0
+1693912869052,281,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-8,text,false,,827,650,9,9,https://etct.com.bd/home/product/top_selling,281,0,0
+1693912867264,2169,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-3,text,true,,787454,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1780,0,0
+1693912869334,286,https://etct.com.bd/home/product/related,419,,Thread Group 1-8,text,false,,827,673,9,9,https://etct.com.bd/home/product/related,286,0,0
+1693912869435,296,https://etct.com.bd/product/variant_price,419,,Thread Group 1-3,text,false,,819,657,9,9,https://etct.com.bd/product/variant_price,296,0,0
+1693912869621,284,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-8,text,false,,831,634,9,9,https://etct.com.bd/home/product/also_like,284,0,0
+1693912869906,75,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-8,text,true,,1802,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,75,0,0
+1693912869982,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912869984,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912869732,325,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-3,text,false,,823,650,9,9,https://etct.com.bd/home/product/top_selling,325,0,0
+1693912869986,291,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-8,text,false,,835,650,9,9,https://etct.com.bd/cart/addtocart,290,0,0
+1693912870059,289,https://etct.com.bd/home/product/related,419,,Thread Group 1-3,text,false,,831,673,9,9,https://etct.com.bd/home/product/related,289,0,0
+1693912870278,74,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-8,text,true,,1568,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,74,0,0
+1693912870353,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912870355,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912870356,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912870349,291,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-3,text,false,,837,634,9,9,https://etct.com.bd/home/product/also_like,291,0,0
+1693912868556,2099,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-6,text,true,,787585,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1725,0,0
+1693912870642,80,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-3,text,true,,1800,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,80,0,0
+1693912870723,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912870724,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912870657,293,https://etct.com.bd/product/variant_price,419,,Thread Group 1-6,text,false,,827,657,9,9,https://etct.com.bd/product/variant_price,293,0,0
+1693912870726,300,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-3,text,false,,827,650,9,9,https://etct.com.bd/cart/addtocart,300,0,0
+1693912871027,79,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-3,text,true,,1565,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,79,0,0
+1693912871107,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912871109,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912871111,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912870951,286,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-6,text,false,,831,650,9,9,https://etct.com.bd/home/product/top_selling,286,0,0
+1693912871238,286,https://etct.com.bd/home/product/related,419,,Thread Group 1-6,text,false,,829,673,9,9,https://etct.com.bd/home/product/related,286,0,0
+1693912871525,292,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-6,text,false,,825,634,9,9,https://etct.com.bd/home/product/also_like,292,0,0
+1693912869827,2044,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-7,text,true,,787806,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1675,0,0
+1693912871819,78,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-6,text,true,,1802,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,78,0,0
+1693912871898,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912871900,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912871873,288,https://etct.com.bd/product/variant_price,419,,Thread Group 1-7,text,false,,823,657,9,9,https://etct.com.bd/product/variant_price,288,0,0
+1693912871902,311,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-6,text,false,,827,650,9,9,https://etct.com.bd/cart/addtocart,310,0,0
+1693912872214,85,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-6,text,true,,1565,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,84,0,0
+1693912872300,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912872302,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912872304,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912872162,290,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-7,text,false,,829,650,9,9,https://etct.com.bd/home/product/top_selling,290,0,0
+1693912872453,292,https://etct.com.bd/home/product/related,419,,Thread Group 1-7,text,false,,825,673,9,9,https://etct.com.bd/home/product/related,292,0,0
+1693912872746,468,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-7,text,false,,827,634,9,9,https://etct.com.bd/home/product/also_like,468,0,169
+1693912871106,2140,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,200,OK,Thread Group 1-1,text,true,,787542,654,9,9,https://etct.com.bd/waterresistanttravellaptopbackpackbluefa02mdbh,1749,0,0
+1693912873215,100,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-7,text,true,,1801,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,100,0,0
+1693912873316,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912873319,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912873321,296,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-7,text,false,,837,650,9,9,https://etct.com.bd/cart/addtocart,296,0,0
+1693912873619,90,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-7,text,true,,1569,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,90,0,0
+1693912873710,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912873712,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912873713,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912873247,803,https://etct.com.bd/product/variant_price,419,,Thread Group 1-1,text,false,,829,657,9,9,https://etct.com.bd/product/variant_price,803,0,147
+1693912874052,291,https://etct.com.bd/home/product/top_selling,419,,Thread Group 1-1,text,false,,823,650,9,9,https://etct.com.bd/home/product/top_selling,290,0,0
+1693912874345,287,https://etct.com.bd/home/product/related,419,,Thread Group 1-1,text,false,,825,673,9,9,https://etct.com.bd/home/product/related,287,0,0
+1693912874633,291,https://etct.com.bd/home/product/also_like,419,,Thread Group 1-1,text,false,,825,634,9,9,https://etct.com.bd/home/product/also_like,291,0,0
+1693912874925,80,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-1,text,true,,1798,1846,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,80,0,0
+1693912875006,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912875007,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912875009,292,https://etct.com.bd/cart/addtocart,419,,Thread Group 1-1,text,false,,823,650,9,9,https://etct.com.bd/cart/addtocart,292,0,0
+1693912875302,85,https://etct.com.bd/cdn-cgi/zaraz/t,200,OK,Thread Group 1-1,text,true,,1559,1449,9,9,https://etct.com.bd/cdn-cgi/zaraz/t,85,0,0
+1693912875387,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912875389,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912875390,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912873155,2689,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-5,text,false,,691670,612,9,9,https://etct.com.bd/cart,1909,0,153
+1693912875845,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912875846,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-5,text,false,,2366,0,9,9,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912812214,19601,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-5,,false,,3949587,17210,9,9,null,15756,44032,1067
+1693912879413,2721,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-4,text,false,,691705,612,8,8,https://etct.com.bd/cart,2056,0,152
+1693912882135,68,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-4,text,false,,2731,0,8,8,https://gtmcloud.etct.com.bd/events,0,0,68
+1693912882204,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-4,text,false,,2366,0,8,8,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912812016,20112,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-4,,false,,3948089,17210,8,8,null,16468,50078,1325
+1693912879938,2665,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-3,text,false,,691706,612,7,7,https://etct.com.bd/cart,1916,0,149
+1693912882604,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,7,7,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912882606,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-3,text,false,,2366,0,7,7,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912811818,20507,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-3,,false,,3947315,17210,7,7,null,16979,50283,1384
+1693912882468,2679,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-8,text,false,,691496,612,6,6,https://etct.com.bd/cart,1974,0,140
+1693912885148,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,6,6,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912885151,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-8,text,false,,2366,0,6,6,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912812814,18460,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-8,,false,,3950116,17210,6,6,null,15390,53878,451
+1693912883674,2702,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-10,text,false,,691518,612,5,5,https://etct.com.bd/cart,1939,0,153
+1693912886377,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,5,5,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912886378,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-10,text,false,,2366,0,5,5,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912813210,19264,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-10,,false,,3949585,17210,5,5,null,15701,53905,388
+1693912886468,2685,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-9,text,false,,691497,612,4,4,https://etct.com.bd/cart,1911,0,137
+1693912889154,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,4,4,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912889155,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-9,text,false,,2366,0,4,4,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912813025,19571,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-9,,false,,3946339,17210,4,4,null,15933,56560,304
+1693912889669,2115,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-7,text,false,,691603,612,3,3,https://etct.com.bd/cart,1363,0,0
+1693912891787,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,3,3,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912891788,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-7,text,false,,2366,0,3,3,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912812617,19402,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-7,,false,,3947341,17210,3,3,null,15791,59770,606
+1693912890758,2332,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-6,text,false,,691583,612,2,2,https://etct.com.bd/cart,1562,0,150
+1693912893091,65,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (gtmcloud.etct.com.bd),Thread Group 1-6,text,false,,2731,0,2,2,https://gtmcloud.etct.com.bd/events,0,0,65
+1693912893157,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-6,text,false,,2366,0,2,2,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912812414,19659,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-6,,false,,3948711,17210,2,2,null,15973,61085,849
+1693912891836,2581,https://etct.com.bd/cart,500,Internal Server Error,Thread Group 1-1,text,false,,691670,612,1,1,https://etct.com.bd/cart,1629,0,0
+1693912894418,1,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,1,1,https://gtmcloud.etct.com.bd/events,0,0,1
+1693912894420,0,https://gtmcloud.etct.com.bd/events,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: gtmcloud.etct.com.bd,Thread Group 1-1,text,false,,2366,0,1,1,https://gtmcloud.etct.com.bd/events,0,0,0
+1693912811449,22126,Test,,"Number of samples in transaction : 36, number of failing samples : 30",Thread Group 1-1,,false,,3948996,17210,1,1,null,18319,60846,1566
